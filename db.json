@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "firstName": "Tushar",
+      "lastName": "Patle",
+      "phone": "7878787878",
+      "age": "57",
+      "email": "t@gmail.com",
+      "address": "addressss",
+      "message": "hello\n",
+      "id": 1
+    },
+    {
+      "firstName": "Pawan",
+      "lastName": "Kumar",
+      "phone": "7878787878",
+      "age": "55",
+      "email": "k@gmail.com",
+      "address": "address2",
+      "message": "hello2",
+      "id": 2
+    }
+  ]
+}
